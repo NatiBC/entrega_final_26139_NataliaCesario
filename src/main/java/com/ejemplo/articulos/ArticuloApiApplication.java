@@ -1,6 +1,6 @@
 
 // Paquete principal del proyecto
-package src.main.java.com.ejemplo.articulos;
+package com.ejemplo.articulos;
 
 // Importa la clase SpringApplication que se usa para lanzar la app
 import org.springframework.boot.SpringApplication;

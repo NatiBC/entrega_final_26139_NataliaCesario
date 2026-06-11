@@ -1,5 +1,5 @@
 // Paquete que contiene la clase de modelo
-package src.main.java.com.ejemplo.articulos.model;
+package com.ejemplo.articulos.model;
 
 // Clase que representa un artículo
 public class Articulo {

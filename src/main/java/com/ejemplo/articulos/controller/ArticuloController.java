@@ -1,8 +1,8 @@
 // Paquete del controlador
-package src.main.java.com.ejemplo.articulos.controller;
+package com.ejemplo.articulos.controller;
 
-import src.main.java.com.ejemplo.articulos.model.Articulo;
-import src.main.java.com.ejemplo.articulos.service.ArticuloService;
+import com.ejemplo.articulos.model.Articulo;
+import com.ejemplo.articulos.service.ArticuloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,9 +1,9 @@
 
 // Paquete del servicio de implementación
-package src.main.java.com.ejemplo.articulos.service;
+package com.ejemplo.articulos.service;
 
-import src.main.java.com.ejemplo.articulos.model.Articulo;
-import src.main.java.com.ejemplo.articulos.repository.ArticuloRepository;
+import com.ejemplo.articulos.model.Articulo;
+import com.ejemplo.articulos.repository.ArticuloRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

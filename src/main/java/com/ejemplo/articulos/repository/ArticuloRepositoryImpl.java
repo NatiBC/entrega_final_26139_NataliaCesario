@@ -1,7 +1,7 @@
 // Paquete del repositorio de implementación
-package src.main.java.com.ejemplo.articulos.repository;
+package com.ejemplo.articulos.repository;
 
-import src.main.java.com.ejemplo.articulos.model.Articulo;
+import com.ejemplo.articulos.model.Articulo;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
 
 // Paquete que contiene las interfaces del servicio
-package src.main.java.com.ejemplo.articulos.service;
+package com.ejemplo.articulos.service;
 
-import src.main.java.com.ejemplo.articulos.model.Articulo;
+import com.ejemplo.articulos.model.Articulo;
 import java.util.List;
 import java.util.Optional;
 

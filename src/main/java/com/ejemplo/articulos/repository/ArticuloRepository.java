@@ -1,8 +1,8 @@
 
 // Paquete que contiene las interfaces de acceso a datos
-package src.main.java.com.ejemplo.articulos.repository;
+package com.ejemplo.articulos.repository;
 
-import src.main.java.com.ejemplo.articulos.model.Articulo;
+import com.ejemplo.articulos.model.Articulo;
 import java.util.List;
 import java.util.Optional;
 
